@@ -76,7 +76,7 @@ If you're interested in contributing code to Project-Analytics-Dashboard, please
 
 1. **Fork the Repository**: Start by forking the project repository to your GitHub account.
 
-2. **Clone Your Fork**: Clone your fork of the repository to your local machine. [With Just One Click, Fork The Project-Analytics-Dashboard Project](https://github.com/UtsavSoftrefineTech/Project-Analytics-Dashboard/fork")
+2. **Clone Your Fork**: Clone your fork of the repository to your local machine. [With Just One Click, Fork The Project-Analytics-Dashboard Project](https://github.com/UtsavSoftrefineTech/Project-Analytics-Dashboard/fork)
 
 3. **Create a New Branch**: Before making changes, create a new branch for your feature or bug fix.
 
