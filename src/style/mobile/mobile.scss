@@ -1,0 +1,53 @@
+.mobile {
+  overflow: hidden;
+  position: relative;
+  height: 100vh;
+
+  &__header {
+    &__btn {
+      font-size: 1.5rem;
+      background: none;
+      color: inherit;
+      border: none;
+      padding: 0;
+      font: inherit;
+      cursor: pointer;
+      outline: inherit;
+
+      &__line {
+        height: 0.2rem;
+        width: 2rem;
+        background-color: #6f6f6f;
+        margin: 0.3rem 0;
+      }
+    }
+  }
+
+  &__heading {
+    padding: 2rem 1rem 1rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  &__side {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 100;
+  }
+
+  &__logo {
+    color: #003ecb;
+    font-weight: 700;
+    font-size: 3rem;
+    letter-spacing: -0.2rem;
+    padding: 2rem 2rem 0rem 3.5rem;
+    padding: 2rem;
+    margin-right: auto;
+
+    span {
+      color: black;
+    }
+  }
+}
